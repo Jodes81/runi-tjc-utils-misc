@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+rm ~/bin/tjc-find-file
+rm ~/bin/tjc-find-str
+
+
