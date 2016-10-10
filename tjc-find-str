@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep -rnw '/root/' -e $1 | grep -vE "(history|Binary)"
