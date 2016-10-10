@@ -2,9 +2,11 @@
 
 chmod 0755 ~/utils/misc/tjc-find-file
 chmod 0755 ~/utils/misc/tjc-find-str
+chmod 0755 ~/utils/misc/countdown
 chmod 0755 ~/utils/misc/setdown
 
 ln -s ~/utils/misc/tjc-find-file ~/bin/
 ln -s ~/utils/misc/tjc-find-str ~/bin/
+ln -s ~/utils/misc/countdown ~/bin/
 
 
